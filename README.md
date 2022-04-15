@@ -18,7 +18,7 @@ As a shortname or nickname, we typically call it, Njs or Neu.
 
 ## Referencing guide
 
-- Use the main repository for technical contexts (i.e., Technical articles, blog posts, and forum posts)
+- Use the main repository link for technical contexts (i.e., Technical articles, blog posts, and forum posts)
 - Use the official website link for generic or promotional use cases (i.e., Social media posts, graphical materials, and videos)
 
 ## Logo
