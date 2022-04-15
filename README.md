@@ -14,6 +14,7 @@ As a shortname or nickname, we typically call it, Njs or Neu.
 
 - Tagline: Portable and lightweight cross platform desktop app development framework
 - Official website: https://neutralino.js.org
+- Primary repository: https://github.com/neutralinojs/neutralinojs
 
 ## Logo
 
