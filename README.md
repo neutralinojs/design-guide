@@ -12,8 +12,8 @@ For referencing and promoting the Neutralinojs framework, please use the followi
 
 As a shortname or nickname, we typically call it, Njs or Neu.
 
-Tagline: Portable and lightweight cross platform desktop app development framework
-Official website: https://neutralino.js.org
+- Tagline: Portable and lightweight cross platform desktop app development framework
+- Official website: https://neutralino.js.org
 
 ## Logo
 
