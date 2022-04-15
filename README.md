@@ -10,7 +10,10 @@ For referencing and promoting the Neutralinojs framework, please use the followi
 - Neutralino.js (This refers to the client-library, but we would like to use it like Node.js, Electron.js, etc.)
 - Neutralino
 
-As a shortname or nickname, we typically call it, Njs or Neu
+As a shortname or nickname, we typically call it, Njs or Neu.
+
+Tagline: Portable and lightweight cross platform desktop app development framework
+Official website: https://neutralino.js.org
 
 ## Logo
 
